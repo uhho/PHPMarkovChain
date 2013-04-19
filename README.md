@@ -1,4 +1,4 @@
-# Naive Bayes Classifier for PHP #
+# Markov Chain for PHP #
 
 A Markov chain is a mathematical system that undergoes transitions from one state to another, between a finite or countable number of possible states.
 
@@ -8,7 +8,7 @@ Markov chain can be used in:
 - Analysing process flow (e.g. Google's PageRank)
 - Data compression
 
-Learn more about Naive Bayes Classifier at https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+Learn more about Markov Chain at http://en.wikipedia.org/wiki/Markov_chain
 
 ## Usage ##
 ```php
